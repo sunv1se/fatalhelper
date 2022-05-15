@@ -1,3 +1,2 @@
 # fatalhelper
-myprojectunderstand
-licenses
+mylicensesunderstand
