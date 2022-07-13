@@ -1,2 +1,2 @@
 # fatalhelper
-mylicensesunderstand
+мусор
